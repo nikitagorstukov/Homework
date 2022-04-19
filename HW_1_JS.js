@@ -5,15 +5,15 @@ let item_2 = 3;
 // console.log (item_2);
 
 let item_3 = item_1 + item_2;
-// console.log (item_3);
+console.log (item_3);
 
 let item_4 = 'Yolochka';
-// console.log (item_4);
+console.log (item_4);
 
-// console.log (item_3 * item_4);
+console.log (item_3 * item_4);
 
 let item_5 = item_3;
-// console.log (item_5);
+console.log (item_5);
 
 let item_6 = 15;
 let item_6_type = typeof (item_6);
